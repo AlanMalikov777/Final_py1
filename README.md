@@ -33,3 +33,6 @@ python test.py
 ```
 Alternative is taking python files from src and use it by your own or copy code and use it.
 # Examples
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/)

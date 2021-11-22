@@ -1,6 +1,6 @@
 # Final_py1
 
-It is program that contains of 2 webpages. First, it works for logining user and if database has a date about user it will give and save token in database and redirect them to next page. Second, it works for searching and summarizing a information about concrete token. It uses a bootstarp in each html page.
+It is a program that contains 2 web pages. First, it works for logining user and if a database has a date about the user it will give and save token in a database and redirect them to the next page. Second, it works for searching and summarizing information about concrete token. It uses a bootstrap on each HTML page.
 
 # Team
 

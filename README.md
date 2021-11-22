@@ -11,7 +11,7 @@ Malikov Alan
 Kurmangali Sanzhar
 
 # Installation
-You need to download this libraries: 'Flask', 'Flask-SQLAlchemy', 'requests', 'beautifulSoup', 'transformers ', 'jwt'
+You need to download these libraries: 'Flask', 'Flask-SQLAlchemy', 'requests', 'beautifulSoup', 'transformers ', 'jwt'
 With using this codes:
 ```bash
 pip install Flask
@@ -47,6 +47,14 @@ Redirect to searching web page and processing a search:
 
 ![fp2](https://user-images.githubusercontent.com/77801087/142907977-920390d1-7d9c-4ca7-9017-955e4678ab08.jpg)
 ![fp3 (2)](https://user-images.githubusercontent.com/77801087/142908113-136ffcee-1692-4b5a-b1fa-6501ecfad5a6.jpg)
+
+Results in PostgreSQL tables:
+
+![fp4 (2)](https://user-images.githubusercontent.com/77801087/142911630-b1909c35-a8f8-4461-901c-f476c8434ec1.jpg)
+
+It saves summary that huggingface has done:
+
+![fp5](https://user-images.githubusercontent.com/77801087/142913691-d0162123-9b89-4f29-8472-aec0867eff53.jpg)
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
